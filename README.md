@@ -6,7 +6,7 @@ Roser Marfany
 
 Desembre 2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Smartphone-1184865_960_720.png/220px-Smartphone-1184865_960_720.png) 
 
 
 
