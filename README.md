@@ -6,7 +6,7 @@ Roser Marfany
 
 Desembre 2023
 
-![Cultura Digital](fusio logos.png) 
+![Cultura Digital](https://github.com/rmarfany/PEC3_Manovich_Reloaded/fusio logos.png) 
 
 
 
