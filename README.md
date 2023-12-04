@@ -6,7 +6,7 @@ Roser Marfany
 
 Desembre 2023
 
-![Cultura Digital](https://github.com/rmarfany/PEC3_Manovich_Reloaded/fusiologos.png) 
+![Cultura Digital](https://github.com/rmarfany/PEC3_Manovich_Reloaded/logos.png) 
 
 
 
