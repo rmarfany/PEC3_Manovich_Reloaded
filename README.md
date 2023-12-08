@@ -6,7 +6,7 @@ Roser Marfany
 
 Desembre 2023
 
-![Logos Nkoda i 3Cat](img/logos.png) 
+![Logos Nkoda i 3Cat](logos.png) 
 
 
 
