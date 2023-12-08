@@ -6,7 +6,7 @@ Roser Marfany
 
 Desembre 2023
 
-![Cultura Digital](img/logos.png) 
+![logos Nkoda i 3Cat](img/logos.png) 
 
 
 
