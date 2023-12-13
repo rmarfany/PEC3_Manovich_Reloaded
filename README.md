@@ -38,7 +38,6 @@ Un altre element important que ofereix Nkoda és la personalització de la inter
 
 
 En resum, Nkoda és un clar exemple d’hibridació que combina imatges, documents i so en una única interfície i que ofereix a l’usuari una experiència personalitzada, permetent-li introduir anotacions a les partitures i crear una biblioteca personal.
-![image](https://github.com/rmarfany/PEC3_Manovich_Reloaded/assets/152926668/c94fa630-09a0-4f38-b4c6-46559a67b794)
 
 
 
