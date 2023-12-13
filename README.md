@@ -15,8 +15,9 @@ Desembre 2023
 
 Segons Manovich (2013) a finals dels anys setanta s’inicia una segona fase de l’evolució de l’ordinador com a metamedi que ell anomena hibridació dels mitjans. Però què significa exactament aquest concepte? Segons Manovich (2013) la hibridació de mitjans és la trobada de diverses tècniques que anteriorment pertanyien a mitjans diferents.![image]
 
-*"hbjhbjhb"
-
++*"hbjhbjhb"
++>"hbjhbjhb"
++<"hbjhbjhb"
 
 ## Redescobrint la hibridació: cas 1: Nkoda
 
