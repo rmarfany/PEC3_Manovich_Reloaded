@@ -2,9 +2,9 @@
 ### Cultura Digital - Grau Multimèdia (UOC)
 
 
-Roser Marfany
+Nom: Roser Marfany
 
-Desembre 2023
+Data: Desembre 2023
 
 ![Logos Nkoda i 3Cat](img/logos.png) 
 
