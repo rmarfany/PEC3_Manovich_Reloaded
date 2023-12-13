@@ -18,6 +18,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Redescobrint la hibridació: cas 1: Nkoda
 
+Com funciona i mitjans que incorpora
+Quina mena d’hibridació es pot identificar en aquest cas?
+
 Nkoda és un recurs electrònic de pagament que permet l'accés a més de 110.000 partitures digitals dels principals editors de música impresa del món. S’hi pot accedir a través de https://www.nkoda.com/ o descarregant l’aplicació per a IOS i Android.
 És un bon exemple de remediació, en el sentit que utilitza el software per oferir accés a partitures que abans només existien en format paper. Però va més enllà, i en paraules de Manovich (2013) ens presenta diversos elements que es fusionen per oferir una experiència nova i coherent, que és diferent a experimentar els elements un per un. En aquest sentit, Nkoda ens presenta diferents mitjans en una única interfície: imatges, documents i so. Les imatges són les portades de les partitures, els documents, les partitures digitalitzades i, el so, són les reproduccions àudio que podem fer de les partitures seleccionades. 
 Les imatges, que sempre fan referència a la portada de la partitura, les trobem sobretot a la pàgina principal del recurs, on s’ofereix una selecció de partitures per temes (selecció d’una editorial, d’un autor o d’un conjunt instrumental) -> ADJUNTAR NKODA3
@@ -43,8 +46,30 @@ En resum, Nkoda és un clar exemple d’hibridació que combina imatges, documen
 
 
 ## Redescobrint la hibridació: cas 2: 3Cat
+Com funciona i mitjans que incorpora
+Quina mena d’hibridació es pot identificar en aquest cas?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Segons Viquipèdia (2023), la plataforma 3Cat és la fusió entre els diferents mitjans que formen part de la Corporació Catalana de Mitjans Audiovisuals (CCMA): Televisió de Catalunya (...) i Catalunya Ràdio. S’hi pot accedir de forma gratuïta a través de: https://www.ccma.cat/3cat/, descarregant l’aplicació per a IOS i Android o des d’un televisor intel·ligent.
+
+Aquesta plataforma digital incorpora diferents elements de la ràdio i el cinema en un únic recurs de forma integrada. En aquest sentit, podem trobar so, representat a través dels pòdcasts, vídeos en forma de sèries i pel·lícules i imatges que representen cada un dels elements que es poden visionar o reproduir. 
+
+Aquests elements (so, vídeos i imatges) es combinen en una única interfície que permet a l’usuari personalitzar-la i interactuar-hi. En aquest sentit, es compleix a la perfecció la definició d’hibridació segons Adell (2014): “l’experiència és una, unificada en un mateix entorn de reproducció, els elements -tot i ser de tipologies diferents- comparteixen les mateixes tècniques per a ser reproduïts en conjunt, uns fusionats amb els altres, aportant cadascun les seves potencialitats a l’experiència global de la comunicació amb l’usuari.”
+
+La plataforma 3Cat, gràcies a diferents algoritmes, ens permet navegar a través dels vídeos i pòdcasts de diferents maneres:
+•	Cercador per paraula clau
+•	Menú superior ordenat per seccions (directes, entreteniment, sèries, pòdcasts, el més top, la meva llista i explora)
+•	Menú superior “Explora”. Presenta una selecció de temes d’interès (actualitat, esports, cuines, etc.)
+•	Selecció temàtica de la pàgina principal. La pàgina principal està organitzada per temes d’interès diferents dels de la secció “Explora” (Directes, Novetats, Un Nadal de pel·lícula, Estic veient, Estic escoltant, etc.)
+
+La interacció amb la interfície es realitza navegant pels vídeos i pòdcasts, ja siguin programes en directe o enregistrats amb anterioritat.
+
+La interfície es pot personalitzar de dues maneres. La primera consisteix en crear una selecció personalitzada dels pòdcasts o vídeos del nostre interès afegint-los a la secció “La meva llista”. La segona, que funciona de forma automatitzada, es fa a partir de les nostres preferències. En funció dels vídeos i pòdcasts escoltats, els algoritmes de la plataforma ens seleccionen altres elements similars del nostre interès i els posicionen a la secció “Recomanats per a tu”.
+
+En resum, la plataforma 3Cat és un clar exemple d’hibridació, ja que incorpora diferents elements de la ràdio i el cinema, com pòdcasts, imatges i vídeos, en una únic recurs de forma integrada, permetent a l'usuari crear una experiència personalitzada.
+
+
+## Valoració personal
 
 
 ## Bibliografia
