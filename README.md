@@ -13,7 +13,8 @@ Desembre 2023
 ## Introducció
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Segons Manovich (2013) a finals dels anys setanta s’inicia una segona fase de l’evolució de l’ordinador com a metamedi que ell anomena hibridació dels mitjans. Però què significa exactament aquest concepte? Segons Manovich (2013) la hibridació de mitjans és la trobada de diverses tècniques que anteriorment pertanyien a mitjans diferents.![image]
+
 
 
 ## Redescobrint la hibridació: cas 1: Nkoda
