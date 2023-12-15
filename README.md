@@ -10,7 +10,7 @@ Data: Desembre 2023
 
 
 
-## Introducció
+## 1. Introducció
 
 En els estudis de Lev Manovich els conceptes de multimèdia, remediació i hibridació de mitjans exerceixen un paper crucial en la comprensió de l’evolució dels mitjans en l’era digital. Però quines diferències hi ha entre aquests tres conceptes? La remediació, segons Bolter i Grusin (2000) consisteix en:
 >“el procés pel qual un mitjà de comunicació s'apropia de tècniques, formes i/o significació social d'un altre mitjà amb què persegueix rivalitzar o redefinir-se”.
@@ -25,7 +25,8 @@ Aquest assaig té com a objectiu analitzar dos exemples d’hibridació de mitja
 
 
 
-## Redescobrint la hibridació: cas 1: Nkoda
+## 2. Redescobrint la hibridació
+### 2.1 Cas 1: Nkoda
 
 Nkoda és un recurs electrònic de pagament que permet l'accés a més de 110.000 partitures digitals dels principals editors de música impresa del món. S’hi pot accedir a través de https://www.nkoda.com/ o descarregant l’aplicació per a IOS i Android.
 
@@ -58,7 +59,7 @@ En resum, Nkoda és un clar exemple d’hibridació que combina imatges, documen
 
 
 
-## Redescobrint la hibridació: cas 2: 3Cat
+### 2.2 Cas 2: 3Cat
 
 Segons Viquipèdia (2023), la plataforma 3Cat és la fusió entre els diferents mitjans que formen part de la Corporació Catalana de Mitjans Audiovisuals (CCMA): Televisió de Catalunya (...) i Catalunya Ràdio. S’hi pot accedir de forma gratuïta a través de: https://www.ccma.cat/3cat/, descarregant l’aplicació per a IOS i Android o des d’un televisor intel·ligent.
 
@@ -84,14 +85,14 @@ En resum, la plataforma 3Cat és un clar exemple d’hibridació, ja que incorpo
 
 
 
-## Valoració personal
+## 3. Valoració personal
 En aquest assaig s'ha analitzat el concepte d'hibridació de mitjans a partir de dos exemples: Nkoda i 3Cat. Aquests dos casos ens han servit per ilustrar com la combinació de diferents mitjans -en el cas de Nkoda: la música impresa, el so i la imatge i, la ràdio i el cinema, en el cas de 3Cat-, ha donat lloc a la creació de noves formes digitals, que combinen els elements de forma integrada creant una experiència personalitzada. Aquests exemples demostren que la hibridació de mitjans, en contrast amb la remediació i la multimèdia, impliquen la fusió de diferents mitjans per generar noves formes digitals, redefinint la creació i el consum dels continguts. 
 
 Finalment, aquest anàlisi ens demostra que la hibridació de mitjans es troba present en tots els àmbits, des de la música fins als mitjans audiovisuals, reafirmant el seu paper central en la configuració del paisatge mediàtic contemporani.
 
 
 
-## Bibliografia
+## 4. Bibliografia
 
 - 3Cat, *Wikipedia: l'enciclopèdia lliure*. [consulta: 7/12/2023]. https://ca.wikipedia.org/wiki/3Cat
 - Adell, F. [Ferran]. (2014). Remediació, multimèdia i hibridació dels mitjans. *Fonaments i evolució de la multimèdia*. http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/
