@@ -12,18 +12,13 @@ Data: Desembre 2023
 
 ## Introducció
 
+En els estudis de Lev Manovich els conceptes de multimèdia, remediació i hibridació de mitjans exerceixen un paper crucial en la comprensió de l’evolució dels mitjans en l’era digital. Però quines diferències hi ha entre aquests tres conceptes? La remediació, segons Bolter i Grusin (2000) consisteix en “el procés pel qual un mitjà de comunicació s'apropia de tècniques, formes i/o significació social d'un altre mitjà amb què persegueix rivalitzar o redefinir-se”. Per altra banda, segons Adell (2014) en la multimèdia “els elements conviuen però cadascun d’ells necessita obrir el seu propi recurs per a ser reproduït (…). En la hibridació, en canvi, és dóna una fusió entre els elements (…) generant una experiència nova i coherent que és diferent a l’experimentació dels elements per separat.” Per tant, en la hibridació, no només es combinen dos o més mitjans sinó que es creen noves formes digitals.
 
-Segons Manovich (2013) a finals dels anys setanta s’inicia una segona fase de l’evolució de l’ordinador com a metamedi que ell anomena hibridació dels mitjans. Però què significa exactament aquest concepte? Segons Manovich (2013) la hibridació de mitjans és la trobada de diverses tècniques que anteriorment pertanyien a mitjans diferents.
-
-##
-> "En la multimèdia els elements conviuen però cadascun d’ells necessita obrir el seu propi recurs per a ser reproduït (…). En la hibridació, en canvi, és dóna una fusió entre els elements  (…) generant una experiència nova i coherent que és diferent a l’experimentació dels elements per separat", (Adell, 2014)
+Aquest assaig té com a objectiu analitzar dos exemples d’hibridació de mitjans, Nkoda i la plataforma 3Cat. En aquest sentit, intentarem demostrar com tots dos recursos són un bon exemple d’hibridació de mitjans, ja que combinen diversos elements (imatge, so, documents i vídeos) de forma integrada, es troben disponibles per a diferents dispositius i creen una experiència personalitzada a l’usuari que hi interacciona.
 
 ##
 
 ## Redescobrint la hibridació: cas 1: Nkoda
-
-Com funciona i mitjans que incorpora
-Quina mena d’hibridació es pot identificar en aquest cas?
 
 Nkoda és un recurs electrònic de pagament que permet l'accés a més de 110.000 partitures digitals dels principals editors de música impresa del món. S’hi pot accedir a través de https://www.nkoda.com/ o descarregant l’aplicació per a IOS i Android.
 És un bon exemple de remediació, en el sentit que utilitza el software per oferir accés a partitures que abans només existien en format paper. Però va més enllà, i en paraules de Manovich (2013) ens presenta diversos elements que es fusionen per oferir una experiència nova i coherent, que és diferent a experimentar els elements un per un. En aquest sentit, Nkoda ens presenta diferents mitjans en una única interfície: imatges, documents i so. Les imatges són les portades de les partitures, els documents, les partitures digitalitzades i, el so, són les reproduccions àudio que podem fer de les partitures seleccionades. 
@@ -50,9 +45,6 @@ En resum, Nkoda és un clar exemple d’hibridació que combina imatges, documen
 
 
 ## Redescobrint la hibridació: cas 2: 3Cat
-Com funciona i mitjans que incorpora
-Quina mena d’hibridació es pot identificar en aquest cas?
-
 
 Segons Viquipèdia (2023), la plataforma 3Cat és la fusió entre els diferents mitjans que formen part de la Corporació Catalana de Mitjans Audiovisuals (CCMA): Televisió de Catalunya (...) i Catalunya Ràdio. S’hi pot accedir de forma gratuïta a través de: https://www.ccma.cat/3cat/, descarregant l’aplicació per a IOS i Android o des d’un televisor intel·ligent.
 
@@ -79,6 +71,9 @@ En resum, la plataforma 3Cat és un clar exemple d’hibridació, ja que incorpo
 ## Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Adell, F. [Ferran]. (2014). Remediació, multimèdia i hibridació dels mitjans. **Fonaments i evolució de la multimèdia**. http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/ 
+*Alberich-Pascual, J. [Jordi]. (2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. **Mosaic**, 156. https://doi.org/10.7238/m.n156.1803 
+*3Cat, **Wikipedia: l'enciclopèdia lliure**. [consulta: 7/12/2023]. https://ca.wikipedia.org/wiki/3Cat 
 
 
 ----
