@@ -25,6 +25,7 @@ Nkoda és un recurs electrònic de pagament que permet l'accés a més de 110.00
 És un bon exemple de remediació, en el sentit que utilitza el software per oferir accés a partitures que abans només existien en format paper. Però va més enllà, i en paraules de Manovich (2013) ens presenta diversos elements que es fusionen per oferir una experiència nova i coherent, que és diferent a experimentar els elements un per un. En aquest sentit, Nkoda ens presenta diferents mitjans en una única interfície: imatges, documents i so. Les imatges són les portades de les partitures, els documents, les partitures digitalitzades i, el so, són les reproduccions àudio que podem fer de les partitures seleccionades. 
 
 Les imatges, que sempre fan referència a la portada de la partitura, les trobem sobretot a la pàgina principal del recurs, on s’ofereix una selecció de partitures per temes (selecció d’una editorial, d’un autor o d’un conjunt instrumental):
+
 ![imatge selecció partitures](img/nkoda3.png)
 
 Els documents, que són les partitures digitalitzades, es presenten sempre en format pdf. Les lleis del copyright són molt presents a Nkoda i les partitures tenen bloquejada la funció de descàrrega i de captura de pantalla.
@@ -39,7 +40,8 @@ Nkoda, gràcies a diferents algoritmes, ens permet navegar a través de les part
 •	Selecció temàtica de la pàgina principal (selecció de partitures de l’editorial Schott, selecció d’òperes, selecció de música de cambra, etc.)
 
 Pel que fa a la interacció amb aquest mitjà, cal destacar la possibilitat d’incloure anotacions a les partitures. S’inclouen infinitat de possibilitats, igual que faríem si la partitura fos en paper i ho haguéssim de fer a mà (esborrar, canviar de color, escriure, etc.):
-![imatge selecció partitures](img/nkoda1.png)
+
+![imatge selecció partitures](img/nkoda1.jpg)
 
 Un altre element important que ofereix Nkoda és la personalització de la interfície. S’ofereix la possibilitat de crear una biblioteca personalitzada anomenada “My library” de partitures seleccionades per l’usuari que es podran recuperar i consultar juntes en qualsevol moment sense haver de tornar a fer una cerca.
 ![imatge selecció partitures](img/nkoda2.png)
