@@ -18,6 +18,8 @@ Aquest assaig té com a objectiu analitzar dos exemples d’hibridació de mitja
 
 
 
+
+
 ## Redescobrint la hibridació: cas 1: Nkoda
 
 Nkoda és un recurs electrònic de pagament que permet l'accés a més de 110.000 partitures digitals dels principals editors de música impresa del món. S’hi pot accedir a través de https://www.nkoda.com/ o descarregant l’aplicació per a IOS i Android.
