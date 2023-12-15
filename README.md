@@ -61,10 +61,10 @@ Aquesta plataforma digital incorpora diferents elements de la ràdio i el cinema
 Aquests elements (so, vídeos i imatges) es combinen en una única interfície que permet a l’usuari personalitzar-la i interactuar-hi. En aquest sentit, es compleix a la perfecció la definició d’hibridació segons Adell (2014): “l’experiència és una, unificada en un mateix entorn de reproducció, els elements -tot i ser de tipologies diferents- comparteixen les mateixes tècniques per a ser reproduïts en conjunt, uns fusionats amb els altres, aportant cadascun les seves potencialitats a l’experiència global de la comunicació amb l’usuari.”
 
 La plataforma 3Cat, gràcies a diferents algoritmes, ens permet navegar a través dels vídeos i pòdcasts de diferents maneres:
-•	Cercador per paraula clau
-•	Menú superior ordenat per seccions (directes, entreteniment, sèries, pòdcasts, el més top, la meva llista i explora)
-•	Menú superior “Explora”. Presenta una selecció de temes d’interès (actualitat, esports, cuines, etc.)
-•	Selecció temàtica de la pàgina principal. La pàgina principal està organitzada per temes d’interès diferents dels de la secció “Explora” (Directes, Novetats, Un Nadal de pel·lícula, Estic veient, Estic escoltant, etc.)
+- Cercador per paraula clau
+- Menú superior ordenat per seccions (directes, entreteniment, sèries, pòdcasts, el més top, la meva llista i explora)
+- Menú superior “Explora”. Presenta una selecció de temes d’interès (actualitat, esports, cuines, etc.)
+- Selecció temàtica de la pàgina principal. La pàgina principal està organitzada per temes d’interès diferents dels de la secció “Explora” (Directes, Novetats, Un Nadal de pel·lícula, Estic veient, Estic escoltant, etc.)
 
 La interacció amb la interfície es realitza navegant pels vídeos i pòdcasts, ja siguin programes en directe o enregistrats amb anterioritat.
 
