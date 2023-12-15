@@ -78,7 +78,9 @@ En resum, la plataforma 3Cat és un clar exemple d’hibridació, ja que incorpo
 
 
 ## Valoració personal
+En aquest assaig s'ha analitzat el concepte d'hibridació de mitjans a partir de dos exemples: Nkoda i 3Cat. Aquests dos casos ens han servit per ilustrar com la combinació de diferents mitjans -en el cas de Nkoda: la música impresa, el so i la imatge- i, la ràdio i el cinema, en el cas de 3Cat, ha donat lloc a la creació de noves formes digitals, que combinen els elements de forma integrada creant una experiència personalitzada. Aquests exemples demostren que la hibridació de mitjans, en contrast amb la remediació i la multimèdia, impliquen la fusió de diferents mitjans per generar noves formes digitals, redefinint la creació i el consum dels continguts. 
 
+Finalment, aquest anàlisi ens demostra que la hibridació de mitjans es troba present en tots els àmbits, des de la música fins als mitjans audiovisuals, reafirmant el seu paper central en la configuració del paisatge mediàtic contemporani.
 
 ## Bibliografia
 
