@@ -70,7 +70,7 @@ En resum, la plataforma 3Cat és un clar exemple d’hibridació, ja que incorpo
 
 ## Bibliografia
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
 * Adell, F. [Ferran]. (2014). Remediació, multimèdia i hibridació dels mitjans. **Fonaments i evolució de la multimèdia**. http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/.
 *Alberich-Pascual, J. [Jordi]. (2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. **Mosaic**, 156. https://doi.org/10.7238/m.n156.1803.
 *3Cat, **Wikipedia: l'enciclopèdia lliure**. [consulta: 7/12/2023]. https://ca.wikipedia.org/wiki/3Cat.
