@@ -57,6 +57,7 @@ En resum, Nkoda és un clar exemple d’hibridació que combina imatges, documen
 Segons Viquipèdia (2023), la plataforma 3Cat és la fusió entre els diferents mitjans que formen part de la Corporació Catalana de Mitjans Audiovisuals (CCMA): Televisió de Catalunya (...) i Catalunya Ràdio. S’hi pot accedir de forma gratuïta a través de: https://www.ccma.cat/3cat/, descarregant l’aplicació per a IOS i Android o des d’un televisor intel·ligent.
 
 Aquesta plataforma digital incorpora diferents elements de la ràdio i el cinema en un únic recurs de forma integrada. En aquest sentit, podem trobar so, representat a través dels pòdcasts, vídeos en forma de sèries i pel·lícules i imatges que representen cada un dels elements que es poden visionar o reproduir. 
+![imatge recomanats](img/3cat2.png)
 
 Aquests elements (so, vídeos i imatges) es combinen en una única interfície que permet a l’usuari personalitzar-la i interactuar-hi. En aquest sentit, es compleix a la perfecció la definició d’hibridació segons Adell (2014): “l’experiència és una, unificada en un mateix entorn de reproducció, els elements -tot i ser de tipologies diferents- comparteixen les mateixes tècniques per a ser reproduïts en conjunt, uns fusionats amb els altres, aportant cadascun les seves potencialitats a l’experiència global de la comunicació amb l’usuari.”
 
@@ -69,6 +70,7 @@ La plataforma 3Cat, gràcies a diferents algoritmes, ens permet navegar a travé
 La interacció amb la interfície es realitza navegant pels vídeos i pòdcasts, ja siguin programes en directe o enregistrats amb anterioritat.
 
 La interfície es pot personalitzar de dues maneres. La primera consisteix en crear una selecció personalitzada dels pòdcasts o vídeos del nostre interès afegint-los a la secció “La meva llista”. La segona, que funciona de forma automatitzada, es fa a partir de les nostres preferències. En funció dels vídeos i pòdcasts escoltats, els algoritmes de la plataforma ens seleccionen altres elements similars del nostre interès i els posicionen a la secció “Recomanats per a tu”.
+![imatge recomanats](img/3cat1.png)
 
 En resum, la plataforma 3Cat és un clar exemple d’hibridació, ja que incorpora diferents elements de la ràdio i el cinema, com pòdcasts, imatges i vídeos, en una únic recurs de forma integrada, permetent a l'usuari crear una experiència personalitzada.
 
