@@ -51,7 +51,7 @@ Nkoda, gràcies a diferents algoritmes, ens permet navegar a través de les part
 
 Pel que fa a la interacció amb aquest mitjà, cal destacar la possibilitat d’incloure anotacions a les partitures. S’inclouen infinitat de possibilitats, igual que faríem si la partitura fos en paper i ho haguéssim de fer a mà (esborrar, canviar de color, escriure, etc.):
 
-![imatge anotacions partitures](img/nkoda1.jpg)
+![imatge anotacions partitures](img/nkoda1.jpeg)
 
 Un altre element important que ofereix Nkoda és la personalització de la interfície. S’ofereix la possibilitat de crear una biblioteca personalitzada anomenada “My library” de partitures seleccionades per l’usuari que es podran recuperar i consultar juntes en qualsevol moment sense haver de tornar a fer una cerca.
 
