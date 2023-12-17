@@ -12,7 +12,7 @@ Data: Desembre 2023
 
 ## 1. Introducció
 
-En els estudis de Lev Manovich els conceptes de multimèdia, remediació i hibridació exerceixen un paper crucial en la comprensió de l’evolució dels mitjans en l’era digital. Però quines diferències hi ha entre aquests tres conceptes? La remediació, segons Bolter i Grusin (2000) consisteix en:
+En els estudis de Lev Manovich els conceptes de multimèdia, remediació i hibridació exerceixen un paper crucial en la comprensió de l’evolució dels mitjans en l’era digital. Però quines diferències hi ha entre aquests tres conceptes? La remediació, segons Bolter i Grusin (1999) consisteix en:
 >“el procés pel qual un mitjà de comunicació s'apropia de tècniques, formes i/o significació social d'un altre mitjà amb què persegueix rivalitzar o redefinir-se”.
 
 Per altra banda, segons Adell (2014) en la multimèdia:
