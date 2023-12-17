@@ -36,6 +36,8 @@ Nkoda és un recurs electrònic de pagament que permet l'accés a més de 110.00
 Les imatges, que sempre fan referència a la portada de la partitura, les trobem sobretot a la pàgina principal del recurs, on s’ofereix una selecció de partitures per temes (selecció d’una editorial, d’un autor o d’un conjunt instrumental):
 
 ![imatge selecció partitures](img/nkoda3.png)
+  > Captura d'imatge de la pàgina principal de Nkoda 
+
 
 Els documents, que són les partitures digitalitzades, es presenten sempre en format pdf. Les lleis del copyright són molt presents a Nkoda i les partitures tenen bloquejada la funció de descàrrega i de captura de pantalla.
 Finalment, trobem presència del so en la possibilitat d’escoltar cada una de les partitures que seleccionem. Aquesta funció s’activa a partir de la secció “Playlist”, que ens permet escoltar la partitura mentre s’està visualitzant.
@@ -52,10 +54,12 @@ Nkoda, gràcies a diferents algoritmes, ens permet navegar a través de les part
 Pel que fa a la interacció amb aquest mitjà, cal destacar la possibilitat d’incloure anotacions a les partitures. S’inclouen infinitat de possibilitats, igual que faríem si la partitura fos en paper i ho haguéssim de fer a mà (esborrar, canviar de color, escriure, etc.):
 
 ![imatge anotacions partitures](img/nkoda1.jpeg)
+> Captura d'imatge de Nkoda amb anotacions a una partitura
 
 Un altre element important que ofereix Nkoda és la personalització de la interfície. S’ofereix la possibilitat de crear una biblioteca personalitzada anomenada “My library” de partitures seleccionades per l’usuari que es podran recuperar i consultar juntes en qualsevol moment sense haver de tornar a fer una cerca.
 
 ![imatge My Library](img/nkoda2.png) 
+> Captura d'imatge de la pàgina "My library" de Nkoda 
 
 En resum, Nkoda és un clar exemple d’hibridació que combina imatges, documents i so en una única interfície i que ofereix a l’usuari una experiència personalitzada, permetent-li introduir anotacions a les partitures i crear una biblioteca personal.
 
@@ -68,6 +72,7 @@ Segons Viquipèdia (2023), la plataforma 3Cat és la fusió entre els diferents 
 Aquesta plataforma digital incorpora diferents elements de la ràdio i el cinema en un únic recurs de forma integrada. En aquest sentit, podem trobar so -representat a través dels pòdcasts-, vídeos, -en forma de sèries i pel·lícules- i imatges, que representen cada un dels elements que es poden visionar o reproduir. 
 
 ![imatge recomanats](img/3cat2.png)
+> Captura d'imatge de la pàgina principal de 3Cat 
 
 Aquests elements (so, vídeos i imatges) es combinen en una única interfície que permet a l’usuari personalitzar-la i interactuar-hi. En aquest sentit, es compleix a la perfecció la definició d’hibridació segons Adell (2014): 
 >“l’experiència és una, unificada en un mateix entorn de reproducció, els elements -tot i ser de tipologies diferents- comparteixen les mateixes tècniques per a ser reproduïts en conjunt, uns fusionats amb els altres, aportant cadascun les seves potencialitats a l’experiència global de la comunicació amb l’usuari.”
@@ -83,6 +88,7 @@ La interacció amb la interfície es realitza navegant pels vídeos i pòdcasts,
 La interfície es pot personalitzar de dues maneres. La primera consisteix en crear una selecció personalitzada dels pòdcasts o vídeos del nostre interès afegint-los a la secció “La meva llista”. La segona, que funciona de forma automatitzada, es fa a partir de les nostres preferències. En funció dels vídeos i pòdcasts escoltats, els algoritmes de la plataforma ens seleccionen altres elements similars del nostre interès i els posicionen a la secció “Recomanats per a tu”.
 
 ![imatge recomanats](img/3cat1.png)
+> Captura d'imatge de la secció "Recomanats per a tu" de 3Cat
 
 En resum, la plataforma 3Cat és un clar exemple d’hibridació, ja que incorpora diferents elements de la ràdio i el cinema, com pòdcasts, imatges i vídeos, en una únic recurs de forma integrada, permetent a l'usuari crear una experiència personalitzada.
 
