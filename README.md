@@ -16,11 +16,11 @@ En els estudis de Lev Manovich els conceptes de multimèdia, remediació i hibri
 >“el procés pel qual un mitjà de comunicació s'apropia de tècniques, formes i/o significació social d'un altre mitjà amb què persegueix rivalitzar o redefinir-se”.
 
 Per altra banda, segons Adell (2014) en la multimèdia:
->“els elements conviuen però cadascun d’ells necessita obrir el seu propi recurs per a ser reproduït (…). En la hibridació, en canvi, és dóna una fusió entre els elements (…) generant una experiència nova i coherent que és diferent a l’experimentació dels elements per separat.”
+>“els elements conviuen però cadascun d’ells necessita obrir el seu propi recurs per a ser reproduït (…). En la hibridació, en canvi, es dona una fusió entre els elements (…) generant una experiència nova i coherent que és diferent a l’experimentació dels elements per separat.”
 
-Per tant, en la hibridació, no només es combinen dos o més mitjans sinó que es creen noves formes digitals.
+Per tant, en la hibridació, no només es combinen dos o més mitjans si no que es creen noves formes digitals.
 
-Aquest assaig té com a objectiu analitzar dos exemples d’hibridació de mitjans: Nkoda i la plataforma 3Cat. En aquest sentit, intentarem demostrar com tots dos recursos són un bon exemple d’hibridació de mitjans, ja que combinen diversos elements (imatge, so, documents i vídeos) de forma integrada, es troben disponibles per a diferents dispositius i creen una experiència personalitzada a l’usuari que hi interacciona.    
+Aquest assaig té com a objectiu analitzar dos exemples d’hibridació: Nkoda i la plataforma 3Cat. En aquest sentit, intentarem demostrar com tots dos recursos són un bon exemple d’hibridació de mitjans, ja que combinen diversos elements (imatge, so, documents i vídeos) de forma integrada, es troben disponibles per a diferents dispositius i creen una experiència personalitzada a l’usuari que hi interacciona.    
 
 
 
@@ -102,6 +102,7 @@ Finalment, també cal destacar l'ús del llenguatge MarkDown i del repositori Gi
 - 3Cat, *Wikipedia: l'enciclopèdia lliure*. [consulta: 7/12/2023]. https://ca.wikipedia.org/wiki/3Cat
 - Adell, F. [Ferran]. (2014). Remediació, multimèdia i hibridació dels mitjans. *Fonaments i evolució de la multimèdia*. http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/
 - Alberich-Pascual, J. [Jordi]. (2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. *Mosaic*, 156. https://doi.org/10.7238/m.n156.1803
+- Bolter J. D. [Jay David] & Grusin R. A. [Richard Arthur]. (1999). *Remediation: understanding new media*. MIT Press.
 - Cristóbal, J. [Javier]. (2023). *Qué es Markdown*. [consulta; 11/12/2023]. https://markdown.es/
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC
 
